@@ -1,2 +1,8 @@
 /* Your styles go here */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.jumbotron {
+    background: url(https://cdn.pixabay.com/photo/2012/08/03/01/26/sandstones-53637_1280.jpg);
+    background-position: 0 -300px;
+    background-size: cover;
+}
